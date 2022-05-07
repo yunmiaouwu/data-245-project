@@ -12,5 +12,5 @@
     <br><br>
 **Motivation:**<br>
     Find a modern solution that makes math notes more portable and fetchable by effectively converting math notes to text and pdf version pain free.
-    
+    <br>
 
