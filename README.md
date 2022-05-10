@@ -10,3 +10,17 @@ dataset: https://www.kaggle.com/datasets/xainano/handwrittenmathsymbols
 # Model Design
   <br>
   Model design is referred to current hand writing recognition models; KNN will classify the data after the non-binary data being projected to higher dimensional spaces.
+  
+  
+  [Base Model]
+  (https://github.com/yunmiaouwu/data-245-project/blob/main/245_Miao-Guan-Guo_BaseModel.ipynb)
+  This file contains model that is trained on numeric dataset from our database
+  
+  [Base Model On Full Dataset] 
+  (https://github.com/yunmiaouwu/data-245-project/blob/main/245_Miao-Guan-Guo_BaseModelOnFullDataset.ipynb)
+  This file contains model that is trained on the entire dataset.
+  
+  [KNN+SVM On Full Dataset] 
+  (https://github.com/yunmiaouwu/data-245-project/blob/main/245_Miao-Guan-Guo_BaseModelOnFullDataset.ipynb)
+  This file contains oru innovatice model.
+  
